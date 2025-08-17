@@ -10,7 +10,7 @@ Real-time biomechanical analysis of cricket cover drive technique using computer
 - Real-time video processing with overlays
 - YouTube video download support
 
-### Enhanced Robust Version (`robust_cover_drive_rt.py`) ⭐ **Recommended**
+### Enhanced Robust Version (`robust_cover_drive_rt.py`)  **Recommended**
 - **Temporal smoothing** to handle MediaPipe tracking issues
 - **Knee position estimation** when direct detection fails
 - **Confidence-based validation** for cricket-specific poses
