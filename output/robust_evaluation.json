@@ -1,0 +1,28 @@
+{
+  "technique_scores": {
+    "Swing_Control": 1,
+    "Footwork": 5,
+    "Head_Position": 10,
+    "Balance": 10,
+    "Overall_Stability": 9
+  },
+  "raw_metrics": {
+    "elbow_angle_median": 69.78326171652874,
+    "knee_angle_median": 171.6101185453876,
+    "spine_lean_median": 21.670949850942336,
+    "head_knee_alignment": 1.3258425813964132,
+    "foot_direction_median": 174.53498335927833
+  },
+  "data_quality": {
+    "total_frames": 136,
+    "high_quality_frames": 136,
+    "average_pose_quality": 0.7520186623325875,
+    "frames_with_elbow_data": 66,
+    "frames_with_knee_data": 132
+  },
+  "personalized_advice": [
+    "Work on maintaining front elbow elevation around 110-140\u00b0 through the shot",
+    "Focus on getting your head position over or closer to the front knee at contact"
+  ],
+  "front_side_consistency": "right"
+}

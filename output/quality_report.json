@@ -1,0 +1,34 @@
+{
+  "overall_quality": 0.7520186623325875,
+  "quality_distribution": {
+    "excellent": 0.20588235294117646,
+    "good": 0.7941176470588235,
+    "fair": 0.0,
+    "poor": 0.0
+  },
+  "joint_quality": {
+    "elbow": 0.30492073847528767,
+    "knee": 0.5927241455858537,
+    "spine": 0.9995742459872775
+  },
+  "data_completeness": {
+    "frames_with_pose": 1.0,
+    "elbow_data_coverage": 0.4852941176470588,
+    "knee_data_coverage": 0.9705882352941176,
+    "spine_data_coverage": 1.0
+  },
+  "common_issues": [
+    "Elbow detection issues - may need better camera angle"
+  ],
+  "most_frequent_warnings": [
+    [
+      "Elbow angle calculation failed despite reasonable detection",
+      2
+    ]
+  ],
+  "recommendations": [
+    "For better knee tracking: ensure side-on camera angle with clear view of legs",
+    "For better elbow tracking: avoid clothing that obscures arm movement",
+    "For overall quality: ensure good lighting and minimize background clutter"
+  ]
+}
